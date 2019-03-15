@@ -1,0 +1,3 @@
+/cygdrive/c/Users/admin/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/admin/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/helloworld.dir
+/cygdrive/c/Users/admin/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
